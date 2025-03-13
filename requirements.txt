@@ -1,0 +1,8 @@
+transformers>=4.37.0
+bitsandbytes
+accelerate
+torch
+numpy
+tqdm
+requests
+pillow
