@@ -1,4 +1,6 @@
 # ComfyUI-ergouzi-DeepSeek-R1
+![灵仙儿和二狗子](image/shili.jpg "shili") 
+
 
 [English](#english) | [中文](#chinese)
 
