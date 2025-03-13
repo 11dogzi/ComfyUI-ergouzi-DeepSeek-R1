@@ -134,12 +134,12 @@ If you encounter network issues that prevent automatic downloads, you can manual
 - Repository: https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
 
 ### File Directory Structure
-After downloading, ensure files are placed according to the following structure:
+After downloading, ensure files are placed according to the following structure:    
 
-ComfyUI/
-└── models/
-└── deepseek/
-├── DeepSeek-R1-Distill-Qwen-1.5B/
+ComfyUI/    
+└── models/    
+└── deepseek/    
+├── DeepSeek-R1-Distill-Qwen-1.5B/    
 
 <a name="chinese"></a>
 # 中文
@@ -273,8 +273,8 @@ ComfyUI/models/deepseek/{model_name}/
 - 仓库地址：https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
 
 ### 文件目录结构
-下载完成后，请确保文件按以下结构放置：
-ComfyUI/
-└── models/
-└── deepseek/
-├── DeepSeek-R1-Distill-Qwen-1.5B
+下载完成后，请确保文件按以下结构放置：    
+ComfyUI/    
+└── models/    
+└── deepseek/    
+├── DeepSeek-R1-Distill-Qwen-1.5B    
